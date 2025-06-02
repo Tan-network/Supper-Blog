@@ -1,2 +1,2 @@
 # Supper-Blog
-Day la Blog cung cap thong tin tin tuc, nhiet do, ngay thang tren khap ca nuoc
+This is a blog that provides news, temperature, and monthly information around the world.
